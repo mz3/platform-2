@@ -35,7 +35,7 @@ docker compose up
 ### Testing
 
 - Unit tests: `.spec.ts` files
-- Integration tests: `.integration.ts` files  
+- Integration tests: `.integration.ts` files
 - End-to-end tests: `.e2e.ts` files
 
 ## Project Structure
